@@ -1,0 +1,79 @@
+book_1 = {
+      "id": 1,
+      "image": "https://i.pinimg.com/474x/dc/17/2d/dc172d6fa3f5461d94e6d384aded2cb4.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction"
+    }
+
+book_2 = {
+      "id": 2,
+      "image": "https://i.pinimg.com/originals/0b/bf/b5/0bbfb59b4d5592e2e7fac9930012ce6d.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction"
+    }
+
+book_3 = {
+      "id": 3,
+      "image": "https://i.pinimg.com/736x/66/1d/17/661d179ab722e67eed274d24b8965b0d.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance"
+    }
+
+book_4 = {
+      "id": 4,
+      "image": "https://i.pinimg.com/originals/68/c5/4c/68c54c9599ba37d9ab98c0c51afe2298.png",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction"
+    }
+
+book_5 = {
+    "id": 5,
+    "url": "https://i.pinimg.com/originals/ea/f1/d2/eaf1d2f2d68a2cf606c11676257c86ac.jpg",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction"
+   }
+
+book_6 = {
+    "id": 6,
+    "url": "https://i.pinimg.com/736x/17/4b/27/174b27b63c1999b89891d7014c03f4c8.jpg",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy"
+  }
+
+book_7 = {
+    "id": 7,
+    "url": "https://i.pinimg.com/1200x/27/cf/91/27cf91f605923223613909c7b9d2219f.jpg",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy"
+  }
+
+book_8 = {
+    "id": 8,
+    "url": "https://i.pinimg.com/originals/0c/74/7c/0c747c407bb78958ed3d5453e4d4a825.jpg",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-Age Fiction"
+  }
+
+book_9 = {
+    "id": 9,
+    "url": "https://i.pinimg.com/1200x/94/3d/e0/943de03387723ffbe6c48662a28d89ac.jpg",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy"
+  }
+
+book_10 = {
+    "id": 10,
+    "url": "https://i.pinimg.com/564x/51/7f/8b/517f8b047ea1f3c1fb8f377a06e5516f.jpg",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian Fiction"
+  }
